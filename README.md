@@ -14,6 +14,7 @@ I'm Sierra Evans, a student at Brigham Young University-Idaho interested in Soft
 
 - Proficient in: Pythin, C++, C#, HTML/CSS, JavaScript, SQL, Word, Excel, PowerPoint.
 - Skills: Effective Communicator, Time Management, Teamwork, Team Player, Advocate.
+- Projects: To-Do List, C# Tutorial, Personal Website.
 
 ## Let's Connect!
 
