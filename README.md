@@ -1,16 +1,22 @@
-## Hi there 👋
+# Sierra Evans
 
-<!--
-**sierra-evans/sierra-evans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Sierra Evans, a student at Brigham Young University-Idaho interested in Software Engineering. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning C++, HTML/CSS, and JavaScript.
+- My goals are to learn as many languages as I can, and to become an efficient and effective programmer!
+- Ask me about python, it's my favorite coding language!
+
+## Technologies and Tools
+
+- Proficient in: Pythin, C++, C#, HTML/CSS, JavaScript, SQL, Word, Excel, PowerPoint.
+- Skills: Effective Communicator, Time Management, Teamwork, Team Player, Advocate.
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/sierra-evans-1a9bb4293/) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
