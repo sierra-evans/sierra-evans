@@ -6,13 +6,13 @@ I'm Sierra Evans, a student at Brigham Young University-Idaho interested in Soft
 
 ## About Me
 
-- I'm currently learning C++, HTML/CSS, and JavaScript.
+- I'm currently learning C++, HTML/CSS, and Python.
 - My goals are to learn as many languages as I can, and to become an efficient and effective programmer!
 - Ask me about python, it's my favorite coding language!
 
 ## Technologies and Tools
 
-- Proficient in: Pythin, C++, C#, HTML/CSS, JavaScript, SQL, Word, Excel, PowerPoint.
+- Proficient in: Python, C#, HTML/CSS, SQL, Word, Excel, PowerPoint.
 - Skills: Effective Communicator, Time Management, Teamwork, Team Player, Advocate.
 - Projects: C++ To-Do List, C# Data Structures Tutorial, Informational Personal Website.
 
